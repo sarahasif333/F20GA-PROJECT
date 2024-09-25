@@ -7,7 +7,7 @@ Group Members:
 2.
 3.
 
-#TBD:
+TBD: /n
 Render:
 • Show the different objects and explain how they are connected.
 • Explain how these were built, including previous versions (and sketches) if available.
